@@ -12,14 +12,15 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #3498db;
+  background: #d8eefe;
 }
 
 .wrapper {
   height: 260px;
   max-width: 410px;
-  background: #fff;
+  background: #fffffe;
   border-radius: 7px;
+  border: #094067 2px solid;
   padding: 16px 25px;
   transition: height 0.2s ease;
 }
@@ -55,7 +56,7 @@ header p {
 .form input {
   font-size: 18px;
   padding: 0 17px;
-  border: 1px solid #999;
+  border: #094067 2px solid;
 }
 
 .form button {
@@ -63,7 +64,7 @@ header p {
   cursor: pointer;
   margin-top: 20px;
   font-size: 17px;
-  background: #3498db;
+  background: #3da9fc;
 }
 
 .wrapper .qr-code {
@@ -74,7 +75,7 @@ header p {
   border-radius: 5px;
   align-items: center;
   justify-content: center;
-  border: 1px solid #ccc;
+  border: #094067 2px solid;
 }
 
 .wrapper.active .qr-code {
