@@ -1,11 +1,11 @@
 # QR-Code-Gen
 
-QR Code generator project, develop using vanilla JavaScript, CSS, HTML. Generation of QR codes were achieved by using [GoQR API](https://goqr.me/api/)  
+QR Code generator project, develop using vanilla JavaScript, CSS, HTML. Generation of QR codes were achieved by using GoQR API
 
 
 ## Authors
 
-- [@cima9642](https://www.github.com/cima9642)
+[Carlos Martinez](https://www.github.com/cima9642)
 
 
 ## 🔗 Links
@@ -16,3 +16,7 @@ QR Code generator project, develop using vanilla JavaScript, CSS, HTML. Generati
 ## Deployment
 
 Live Preview: [Here](https://qr-code-generator-rkgb.onrender.com/)
+
+### Resources
+
+[GoQR API](https://goqr.me/api/)  
